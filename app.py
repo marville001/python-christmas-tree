@@ -38,6 +38,8 @@ turtle.backward(n * 4.8)
 tree(15, n)
 turtle.backward(n / 5)
 
+turtle.mainloop()
+
 # add Christmas lights
 # turtle.pensize(5)
 # for i in range(50):
